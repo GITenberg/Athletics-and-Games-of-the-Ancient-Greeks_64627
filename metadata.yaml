@@ -1,0 +1,27 @@
+_repo: Athletics-and-Games-of-the-Ancient-Greeks_64627
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Plummer, Edward M. (Edward Marwick)
+    alias: Plummer, Edward Marwick
+    gutenberg_agent_id: '52991'
+    url: http://www.gutenberg.org/2009/agents/52991
+description: ''
+gutenberg_issued: '2021-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64627'
+  lccn: 04035182
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DF'
+- !lcsh 'Athletics'
+- !lcsh 'Olympics'
+- GITenberg
+tableOfContents: Athletic games among the Homeric heroes -- The Olympic games in ancient
+  times -- Toys and games for children among the ancient Hellenes.
+title: Athletics and Games of the Ancient Greeks
+url: http://www.gutenberg.org/ebooks/64627
